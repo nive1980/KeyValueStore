@@ -19,6 +19,7 @@ Features to implement are
 
 
 **Setup Locally**
+
 git clone -b master https://github.com/nive1980/KeyValueStore.git
 mvn install
 mvn test
