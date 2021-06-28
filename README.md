@@ -1,4 +1,5 @@
-Problem Statement
+**Problem Statement**
+
 Time windowed key value store
 
 Develop time window based key value store which evicts key based on key’s last update time and provides below listed query operation.
@@ -17,8 +18,8 @@ Features to implement are
 6.	Code should be testable and write some unit test cases
 
 
-Setup Locally
-https://github.com/nive1980/KeyValueStore.git
+**Setup Locally**
+git clone -b master https://github.com/nive1980/KeyValueStore.git
 mvn install
 mvn test
 Open the project in IntelliJ IDEA, compile and run the JUnit test cases.
