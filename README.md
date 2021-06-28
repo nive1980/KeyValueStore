@@ -24,3 +24,4 @@ mvn install
 mvn test
 Open the project in IntelliJ IDEA, compile and run the JUnit test cases.
 A csv  file should get created with expired keys
+Run the KVSTester class
